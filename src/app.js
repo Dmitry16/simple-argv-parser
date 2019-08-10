@@ -9,6 +9,6 @@ const argv = process.argv.slice(2).forEach((key, ind, self) => {
   }
 });
 
-console.log('process.argv:::', obj);
+// console.log('process.argv:::', obj);
 
 module.exports = obj;
