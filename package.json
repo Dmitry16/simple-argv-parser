@@ -1,0 +1,28 @@
+{
+  "name": "simple-argv-parser",
+  "version": "1.0.0",
+  "description": "Simple command line (process.argv) parser.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dmitry16/simple-argv-parser.git"
+  },
+  "keywords": [
+    "node.js",
+    "process.argv",
+    "parser",
+    "command",
+    "line",
+    "arguments",
+    "parser"
+  ],
+  "author": "Dmytro Davydov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Dmitry16/simple-argv-parser/issues"
+  },
+  "homepage": "https://github.com/Dmitry16/simple-argv-parser#readme"
+}
