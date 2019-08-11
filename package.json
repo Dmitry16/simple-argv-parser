@@ -1,7 +1,7 @@
 {
   "name": "simple-argv-parser",
   "version": "1.0.2",
-  "description": "Simple command line (process.argv) parser.",
+  "description": "Simple command line (process.argv) parser for Node.js",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
