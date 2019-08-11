@@ -1,6 +1,6 @@
 {
   "name": "simple-argv-parser",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Simple command line (process.argv) parser for Node.js",
   "main": "index.js",
   "scripts": {

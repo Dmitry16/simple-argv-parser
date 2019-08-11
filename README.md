@@ -1,4 +1,4 @@
-# Simple command-line (process.argv) parser for Node.js.
+# simple-argv-parser is a command-line (process.argv) parser for Node.js.
 
 Example of usage:
 
