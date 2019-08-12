@@ -1,4 +1,4 @@
-# simple-argv-parser is a command-line (process.argv) parser for Node.js.
+# simple-argv-parser is a command-line (process.argv) parser for Node.js with no dependencies!
 
 Example of usage:
 
@@ -15,4 +15,3 @@ Somewhere in your code:
 const argvParsedObject = require('simple-argv-parser');
 
 console.log(argvParsedObject); // prints { '-a': 'b', '-c': null } 
-
