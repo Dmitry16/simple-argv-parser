@@ -24,5 +24,8 @@
   "bugs": {
     "url": "https://github.com/Dmitry16/simple-argv-parser/issues"
   },
-  "homepage": "https://github.com/Dmitry16/simple-argv-parser#readme"
+  "homepage": "https://github.com/Dmitry16/simple-argv-parser#readme",
+  "dependencies": {
+    "chai": "^4.2.0"
+  }
 }
