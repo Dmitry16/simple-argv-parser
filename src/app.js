@@ -15,7 +15,5 @@ function parseArgs(arrArgs) {
   }, {});
 }
 
-console.log('obj:::', obj);
-
-exports.obj = obj;
+exports.parsedObj = obj;
 exports.parseArgs = parseArgs;

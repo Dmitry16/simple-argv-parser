@@ -6,12 +6,14 @@ Install the package:
 
 $ npm i simple-argv-parser
 
-Import the package in your code. It returns an object with command-line arguments parsed :
+Import the package in your code. It returns an object { parsedObj } with command-line arguments parsed.
 
-i.e. command: $ node index.js -a b -c
+i.e. command: 
 
-Somewhere in your code:
+$ node index.js -a b -c
 
-const argvParsedObject = require('simple-argv-parser');
+Then in your code:
 
-console.log(argvParsedObject); // prints { '-a': 'b', '-c': null } 
+const { parsedObj } = require('simple-argv-parser');
+
+console.log(parsedObj); // prints { '-a': 'b', '-c': null } 
